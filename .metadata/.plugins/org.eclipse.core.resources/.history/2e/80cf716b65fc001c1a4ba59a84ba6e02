@@ -1,0 +1,8 @@
+
+public class Trader {
+	private final String name;
+	private final String city;
+	private Trader(String n, String c) {
+		
+	}
+}

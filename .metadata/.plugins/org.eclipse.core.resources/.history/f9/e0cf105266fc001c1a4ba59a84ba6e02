@@ -1,0 +1,9 @@
+
+public class MainClass {
+	public static void main(String[] args) {
+		Trader raoul = new Trader("Raoul", "Cambridge");
+		Trader raoul = new Trader("Raoul", "Cambridge");
+		Trader raoul = new Trader("Raoul", "Cambridge");
+		Trader raoul = new Trader("Raoul", "Cambridge");
+	}
+}

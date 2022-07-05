@@ -1,0 +1,20 @@
+
+public class Transaction {
+	private final Trader trader;
+	private final int year;
+	private final int value;
+	
+	public Transaction() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public Trader getTrader() {
+		return trader;
+	}
+	public int getYear() {
+		return year;
+	}
+	public int getValue() {
+		return value;
+	}
+}

@@ -1,0 +1,5 @@
+
+public class Trader {
+	private final String name;
+	
+}
